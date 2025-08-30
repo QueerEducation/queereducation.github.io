@@ -17,7 +17,7 @@ Despite what many may think, it is really easy to explain to a child that some p
 Providing students with the proper information, definitions, and labels aid students who may not understand why they are different than their peers or the feelings they are experiencing. The education does not "indoctrinate" into being queer, but simply give those the words to express themselves that they did not have before. 
 
 # What happens without it?
-<img src="images/TTP_2024_National_Survey_Keyfinding_01.png" style="float: left;width: 300px;margin-right:2em;margin-bottom:1em;">
+<img src="images/TTP_2024_National_Survey_Keyfinding_01.png" style="float: right;width: 300px;margin-left:2em;margin-bottom:1em;">
 Inclusivity & Acceptance: 
 	Acceptance from family, friends, and peers is important to everybody, but members of the queer community fight for it everyday due to ignorance or lack of understanding from others. Unfortunately the reality many members of the queer community face is having to go through the world day to day afraid of what people passing by are thinking, what if someone says or does something, and who is safe to talk to. 
 
