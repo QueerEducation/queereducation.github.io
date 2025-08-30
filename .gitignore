@@ -7,3 +7,4 @@ vendor
 temp.txt
 .vscode
 assets/images/photos/*
+_site/*
