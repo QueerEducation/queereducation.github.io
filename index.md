@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: page
 permalink: "/"
 author_profile: true
-title: About Me
+title: Home
 classes: wide
 ---
 
