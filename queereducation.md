@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 permalink: "/queereducation"
 title: "Reality of Queer Education"
 classes: wide
