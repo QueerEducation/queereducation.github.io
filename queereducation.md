@@ -2,6 +2,7 @@
 layout: single
 permalink: "/queereducation"
 title: "Reality of Queer Education"
+classes: wide
 ---
 # What does queer education look like? 
 “Can you imagine you’re a parent and your son leaves the house and you say, ‘Jimmy, I love you so much, go have a good day in school,’ and your son comes back with a brutal operation?" That is a direct quote from Donald Trump during a rally in Wisconsin during the 2024 presidential elections, but is it true, what are schools teaching children about gender and sexuality? 
