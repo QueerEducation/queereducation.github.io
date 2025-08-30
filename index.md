@@ -17,12 +17,12 @@ Despite what many may think, it is really easy to explain to a child that some p
 Providing students with the proper information, definitions, and labels aid students who may not understand why they are different than their peers or the feelings they are experiencing. The education does not "indoctrinate" into being queer, but simply give those the words to express themselves that they did not have before. 
 
 # What happens without it?
-<img src="images/TTP_2024_National_Survey_Keyfinding_01.png" style="float: right;width: 300px;margin-left:2em;margin-bottom:1em;">
+
 Inclusivity & Acceptance: 
 	Acceptance from family, friends, and peers is important to everybody, but members of the queer community fight for it everyday due to ignorance or lack of understanding from others. Unfortunately the reality many members of the queer community face is having to go through the world day to day afraid of what people passing by are thinking, what if someone says or does something, and who is safe to talk to. 
 
 <img src="images/Screenshot_2025-05-07_100841.jpg" style="float: left;width: 300px;margin-right:2em;margin-bottom:1em;">
 Safety: 
 	Without the proper education and awareness, the world is led to give into dangerous and untrue stereotypes about the queer community. Claims such as transwomen are just trying to harass people in the bathroom are reasons why harmful legislation is currently being passed to strip the queer community of their rights to just exist. The lack of education in the U.S leads to harassment, hate crimes, and discrimination to millions of Americans each and every day. 
-
+<img src="images/TTP_2024_National_Survey_Keyfinding_01.png" style="float: right;width: 300px;margin-left:2em;margin-bottom:1em;">
 Mental Health: Many states do no incorporate any form of queer education within the classrooms. Not only does this lead the queer youth to be confused and unaware of if what they are experiencing is okay, but leaves room for bully by those who do not accept something that goes against the societal roles and expectations they've grown up with. Due to the bullying and exclusion from their community, queer youth's mental health takes a drastic toll, and experience higher rates of anxiety and depression that can lead to suicidal thoughts or actions.
