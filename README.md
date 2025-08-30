@@ -1,1 +1,1 @@
-"# QueerEducation.github.io" 
+[https://queereducation.github.io](https://queereducation.github.io)
