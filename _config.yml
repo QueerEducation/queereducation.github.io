@@ -50,10 +50,10 @@ email: a
 
 # Site Author
 author:
-  name             : "Freya Glick"
+  name             : "Klaus Gittelman"
   avatar           : "/assets/images/bio/bio.jpg"
-  bio              : a
-  email            :
+  bio              : 
+  email            : "rg1024400@wcupa.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
