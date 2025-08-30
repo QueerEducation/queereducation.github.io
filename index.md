@@ -16,10 +16,12 @@ Many individuals are against or neutral to the fight for queer rights simply bec
 Despite what many may think, it is really easy to explain to a child that some people have two dads, or some boys like dresses and that's okay. Young children are endlessly curious about the world around them, and the queer community is apart of that world. This simple lesson requires no introduction to sex or gender, but simply that everyone is different and love comes in many forms. The result of these simple lessons is a world where everyone is allowed to be themselves without pushbacks or risks.
 Providing students with the proper information, definitions, and labels aid students who may not understand why they are different than their peers or the feelings they are experiencing. The education does not "indoctrinate" into being queer, but simply give those the words to express themselves that they did not have before. 
 
-# What happens without it? 
+# What happens without it?
+<img src="images/TTP_2024_National_Survey_Keyfinding_01.png" style="float: left;width: 300px;margin-right:2em;margin-bottom:1em;">
 Inclusivity & Acceptance: 
 	Acceptance from family, friends, and peers is important to everybody, but members of the queer community fight for it everyday due to ignorance or lack of understanding from others. Unfortunately the reality many members of the queer community face is having to go through the world day to day afraid of what people passing by are thinking, what if someone says or does something, and who is safe to talk to. 
 
+<img src="images/Screenshot_2025-05-07_100841.jpg" style="float: left;width: 300px;margin-right:2em;margin-bottom:1em;">
 Safety: 
 	Without the proper education and awareness, the world is led to give into dangerous and untrue stereotypes about the queer community. Claims such as transwomen are just trying to harass people in the bathroom are reasons why harmful legislation is currently being passed to strip the queer community of their rights to just exist. The lack of education in the U.S leads to harassment, hate crimes, and discrimination to millions of Americans each and every day. 
 
