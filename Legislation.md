@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/Legislation"
+permalink: "/legislation"
 author_profile: true
 title: Legislation
 classes: wide
