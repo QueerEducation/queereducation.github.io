@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/"
+permalink: "QueerEd"
 author_profile: true
 title: Reality of Queer Education
 classes: wide
