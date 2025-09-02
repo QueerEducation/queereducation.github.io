@@ -2,7 +2,7 @@
 layout: page-fullwidth
 permalink: "/Queer Literature"
 author_profile: true
-title: Queer Literature 
+title: QueerLiterature 
 classes: wide
 ---
 
