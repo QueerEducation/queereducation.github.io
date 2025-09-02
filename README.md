@@ -1,1 +1,1 @@
-[https://queereducation.github.io](https://queereducation.github.io)
+[https://queereducation.github.io/QueerEd]
