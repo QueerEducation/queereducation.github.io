@@ -1,3 +1,7 @@
-- title: Home
-  url: "/"
+- title: Reality of Queer Education
+  url: "/QueerEd"
+  side: left
+
+  - title: Legislation 
+  url: "/legislation"
   side: left
