@@ -1,0 +1,27 @@
+.img-float-left {
+    float: left;
+    margin-right: 2em;
+    img {
+        width: 300px;
+        margin-bottom: 1em;
+    }
+    p {
+        color: grey !important;
+        margin:0;
+        font-style: italic;
+    }
+}
+
+.img-float-right {
+    float: right;
+    margin-left: 2em;
+    img {
+        width: 300px;
+        margin-bottom:1em;
+    }
+    p {
+        color: grey !important;
+        margin:0;
+        font-style: italic;
+    }
+}

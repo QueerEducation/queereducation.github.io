@@ -6,6 +6,10 @@ title: Legislation
 classes: wide
 ---
 
+<head>
+	<link rel="stylesheet" href="/assets/css/main.css"/>
+</head>
+
 ## Sex Discrimination Order: The Trump administration wishes to define people by their reproductive capacity.  
 	
 ### What does this do?
@@ -36,6 +40,6 @@ Parents are notified when students request to use different name and/or pronouns
 
 ## Restricting Health Care for Transgender Adolescents: A broad ban on health care for transgender youth under the age of 19.
 	
-###What does this look like?
+### What does this look like?
 Denies coverage for necessary medical care
 Bans federal health care organizations from providing care. 

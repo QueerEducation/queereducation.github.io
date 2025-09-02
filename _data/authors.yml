@@ -1,0 +1,17 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+klaus:
+  name: "Klaus Gittelman"
+  siterole: "Writer, Developer"
+  uri: 
+  email: rg1024400@wcupa.edu
+
+freya:
+  name: "Freya Glick"
+  siterole: "Developer"
+  uri: https://bucketsite.com
+  email: freya.glick@gmail.com

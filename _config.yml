@@ -1,26 +1,13 @@
-# Welcome to Jekyll!
+# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+#      _____ _ __          _____      __  __  _
+#     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
+#     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
+#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
+#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
+#                                                 /____/
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-# Build settings
 remote_theme: "Phlow/feeling-responsive@1.91"
-minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -30,80 +17,81 @@ plugins:
 livereload: true
 github: [metadata]
 
-# Search Engine Information
-title: queereducation.github.io
-description: >- # this means to ignore newlines until "next tag:"
+# Title of your website
+title: 'queereducation.github.io'
+
+# The slogan describes your website and is used on homepage in <title> and other important places
+slogan: 'queereducation.github.io'
+
+# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+description: >-
   queereducation.github.io
-baseurl:
-url: https://queereducation.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
-# Disable the feed in the footer
-atom_feed:
-  hide: true
+# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+credits: '<p>Created with &hearts; by <a href="/authors">Klaus Gittelman</a> and <a href="/authors">Freya Glick</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
-# Header
-masthead_title: "queereducation.github.io"
+# Main author of the website
+# See > authors.yml
+author: klaus
 
-# Footer
-name: a
-email: a
+# This URL is the main address for absolute links. Don't include a slash at the end.
+#
+url: 'https://queereducation.github.io'
+baseurl: ''
 
-# Site Author
-author:
-  name             : "Klaus Gittelman"
-  avatar           : "/assets/images/bio/bio.jpg"
-  bio              : 
-  email            : "rg1024400@wcupa.edu"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:a"
+# Logo size is 600x80 pixels
+# logo: "logo.png"
+header: no
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
+#       ____              _             __  _
+#      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
+#     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
+#    / ____/ /_/ / /_/ / / / / / /_/ / /_/ / /_/ / / / /
+#   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
+#               /____/
+#
+#paginate: 5                      # Paginates all X entries
+#paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown           : kramdown
+permalink          : /:categories/:title/
+highlight          : rouge
+excerpt_separator  : "<!--more-->"
+include            : ['.htaccess']
+# Exclude these files from your production _site
 exclude:
   - temp.txt
   - readme.md
   - '*.code-workspace'
-#  - .sass-cache/
-#  - .jekyll-cache/
-#  - gemfiles/
   - Gemfile
   - Gemfile.lock
-#  - node_modules/
-#  - vendor/bundle/
-#  - vendor/cache/
-#  - vendor/gems/
-#  - vendor/ruby/
+
+#
+#       ____       ____            ____
+#      / __ \___  / __/___ ___  __/ / /_
+#     / / / / _ \/ /_/ __ `/ / / / / __/
+#    / /_/ /  __/ __/ /_/ / /_/ / / /_
+#   /_____/\___/_/  \__,_/\__,_/_/\__/
+#
+# Default Settings
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
+  -
+    scope:
+      path: ''
     values:
-      layout: single
-      author_profile: true
-      read_time: true
+      header: no
       comments: false
-      share: false
-      related: false
-      permalink: /blog/:year/:month/:day/:title/
-      toc: true
-      toc_sticky: true
-      show_tags: true
-  - scope:
-      path: "_drafts"
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: false
-      related: false
-      permalink: /blog/:year/:month/:day/:title/
-      toc: true
-      toc_sticky: true
-      show_tags: true
+      show_meta: false
+      author: klaus
+
+#      _____
+#     / ___/____ ___________
+#     \__ \/ __ `/ ___/ ___/
+#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
+#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#
+
+sass:
+  style    : compressed
