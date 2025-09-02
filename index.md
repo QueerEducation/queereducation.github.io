@@ -26,11 +26,3 @@ Safety:
 	Without the proper education and awareness, the world is led to give into dangerous and untrue stereotypes about the queer community. Claims such as transwomen are just trying to harass people in the bathroom are reasons why harmful legislation is currently being passed to strip the queer community of their rights to just exist. The lack of education in the U.S leads to harassment, hate crimes, and discrimination to millions of Americans each and every day. 
 <img src="images/TTP_2024_National_Survey_Keyfinding_01.png" style="float: right;width: 300px;margin-left:2em;margin-bottom:1em;">
 Mental Health: Many states do no incorporate any form of queer education within the classrooms. Not only does this lead the queer youth to be confused and unaware of if what they are experiencing is okay, but leaves room for bully by those who do not accept something that goes against the societal roles and expectations they've grown up with. Due to the bullying and exclusion from their community, queer youth's mental health takes a drastic toll, and experience higher rates of anxiety and depression that can lead to suicidal thoughts or actions.
-
----
-layout: page
-permalink: "/"
-author_profile: true
-title: Harmful Legislation 
-classes: wide
----
