@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 permalink: "/legislation"
 author_profile: true
 title: Legislation
