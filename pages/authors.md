@@ -1,7 +1,6 @@
 ---
 layout: page-fullwidth
 permalink: "/authors"
-author_profile: true
 title: Authors
 ---
 

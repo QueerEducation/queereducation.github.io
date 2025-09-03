@@ -1,9 +1,7 @@
 ---
 layout: page-fullwidth
-permalink: "/Queer Literature"
-author_profile: true
-title: QueerLiterature 
-classes: wide
+permalink: "/queer-literature"
+title: Queer Literature 
 ---
 
 Hi
